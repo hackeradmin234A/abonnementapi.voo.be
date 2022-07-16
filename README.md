@@ -1,3 +1,0 @@
-# abonnementapi.voo.be
-
-# samir 
